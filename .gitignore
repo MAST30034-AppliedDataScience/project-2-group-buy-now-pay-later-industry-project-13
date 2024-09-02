@@ -131,6 +131,7 @@ dmypy.json
 # data
 data/curated/
 data/tables/
+data/merge_df_E.parquet
 
 # OSX .DS_Store file
 .DS_Store
