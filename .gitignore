@@ -131,11 +131,10 @@ dmypy.json
 # data
 data/curated/
 data/tables/
-data/merge_df_E.parquet
+data/merged/
 
 # OSX .DS_Store file
 .DS_Store
 
 # project requirement pdfs
-MAST30034_Project_2_Buy_Now_Pay_Later_Spec.pdf
-MAST30034_Project_2_Pre_Release_Overview.pdf
+
