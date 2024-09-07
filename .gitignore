@@ -139,4 +139,5 @@ data/merged/
 # project requirement pdfs
 
 # notebooks
-notebooks/project2-Long.ipynb
+notebooks/project2-Long-merge.ipynb
+notebooks/project2-Long-vis.ipynb
