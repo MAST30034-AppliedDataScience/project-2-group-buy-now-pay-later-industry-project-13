@@ -133,6 +133,7 @@ data/curated/
 data/tables/
 data/merged/
 data/top_200_customer/
+data/model_output/
 
 # OSX .DS_Store file
 .DS_Store
