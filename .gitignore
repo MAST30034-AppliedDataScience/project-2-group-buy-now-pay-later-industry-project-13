@@ -134,6 +134,9 @@ data/tables/
 data/merged/
 data/top_200_customer/
 data/model_output/
+data/revenue_modelled/
+data/customer_modelled
+
 
 # OSX .DS_Store file
 .DS_Store
